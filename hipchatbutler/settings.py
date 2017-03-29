@@ -136,7 +136,7 @@ LOGGING = {
         'file': {
             'level': 'DEBUG',
             'class': 'logging.FileHandler',
-            'filename': '/Users/Toshihiro/Desktop/docker/django/app/hipchatbutler/logs/application.log',
+            'filename': '/app/logs/application.log',
             'formatter': 'verbose'
         },
         'stdout': {
